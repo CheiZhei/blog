@@ -1,0 +1,24 @@
+
+### directives
+
+* 类型：`Object`
+
+* 详细：
+
+包含 `Vue` 实例可用指令的哈希表。
+
+### filters
+
+* 类型：`Object`
+
+* 详细：
+
+包含 `Vue` 实例可用过滤器的哈希表。
+
+### components
+
+* 类型：`Object`
+
+* 详细：
+
+包含 `Vue` 实例可用组件的哈希表。
